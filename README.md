@@ -10,6 +10,9 @@ Preview Syntax:
 </div>
 ```
  **NOTE: MAKE SURE TO HAVE THE ANIA CLASS FIRST OR THE ANIMATIONS WONT WORK!**
+ 
+Ania Is Available By Downloading Or Using Our CDN.
+`<link rel="stylesheet" href="https://cdn.pyrepo.com/ania.css">`
 
 Animations Available:
   - Fade In
