@@ -1,4 +1,5 @@
 # Ania.css
+[Image of The Ania Logo](https://cdn.pyrepo.com/ania.png)
 Ania Is A CSS Animation Library That Takes Inspiration and Expands On Many Other Great CSS Animation Libraries
 
 Preview Syntax:
